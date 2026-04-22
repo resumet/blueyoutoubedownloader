@@ -1,0 +1,67 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" width="1360" height="820" viewBox="0 0 1360 820" role="img" aria-label="Application screenshot mockup">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#152332"/>
+      <stop offset="100%" stop-color="#0f1a25"/>
+    </linearGradient>
+    <linearGradient id="title" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#2ec4b6"/>
+      <stop offset="100%" stop-color="#f4a261"/>
+    </linearGradient>
+  </defs>
+
+  <rect x="0" y="0" width="1360" height="820" fill="#0c131c"/>
+  <rect x="72" y="48" width="1216" height="724" rx="16" fill="url(#bg)" stroke="#314a61"/>
+
+  <rect x="72" y="48" width="1216" height="42" rx="16" fill="#1f3244"/>
+  <circle cx="100" cy="69" r="7" fill="#ff7b7b"/>
+  <circle cx="124" cy="69" r="7" fill="#ffd166"/>
+  <circle cx="148" cy="69" r="7" fill="#2ec4b6"/>
+  <text x="180" y="75" font-family="Segoe UI, Arial, sans-serif" font-size="16" fill="#cfe0f1">YouTube to MP3 Downloader</text>
+
+  <text x="112" y="140" font-family="Segoe UI, Arial, sans-serif" font-size="38" font-weight="700" fill="url(#title)">YouTube Share URL -> MP3</text>
+
+  <text x="112" y="187" font-family="Segoe UI, Arial, sans-serif" font-size="16" fill="#a9c0d6">YouTube URL</text>
+  <rect x="260" y="165" width="930" height="36" rx="8" fill="#101d2a" stroke="#3f566e"/>
+  <text x="274" y="188" font-family="Consolas, monospace" font-size="14" fill="#d8e6f3">https://youtu.be/hYG47xLb04c?si=ySXb5YtFAyfy1Hlo</text>
+
+  <text x="112" y="235" font-family="Segoe UI, Arial, sans-serif" font-size="16" fill="#a9c0d6">Save Folder</text>
+  <rect x="260" y="213" width="790" height="36" rx="8" fill="#101d2a" stroke="#3f566e"/>
+  <text x="274" y="236" font-family="Consolas, monospace" font-size="14" fill="#d8e6f3">D:\00_Server\유튜브음악다운로더\downloads</text>
+  <rect x="1062" y="213" width="128" height="36" rx="8" fill="#2a4257"/>
+  <text x="1104" y="236" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="14" fill="#e7f2ff">Browse</text>
+
+  <text x="112" y="283" font-family="Segoe UI, Arial, sans-serif" font-size="16" fill="#a9c0d6">Filename Template</text>
+  <rect x="260" y="261" width="930" height="36" rx="8" fill="#101d2a" stroke="#3f566e"/>
+  <text x="274" y="284" font-family="Consolas, monospace" font-size="14" fill="#d8e6f3">%(title)s.%(ext)s</text>
+
+  <text x="112" y="331" font-family="Segoe UI, Arial, sans-serif" font-size="16" fill="#a9c0d6">yt-dlp Path</text>
+  <rect x="260" y="309" width="790" height="36" rx="8" fill="#101d2a" stroke="#3f566e"/>
+  <text x="274" y="332" font-family="Consolas, monospace" font-size="14" fill="#d8e6f3">yt-dlp</text>
+  <rect x="1062" y="309" width="128" height="36" rx="8" fill="#2a4257"/>
+  <text x="1104" y="332" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="14" fill="#e7f2ff">Browse</text>
+
+  <rect x="112" y="382" width="180" height="42" rx="10" fill="#2ec4b6"/>
+  <text x="202" y="408" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="15" font-weight="700" fill="#092027">Download MP3</text>
+
+  <rect x="304" y="382" width="118" height="42" rx="10" fill="#ff7b7b"/>
+  <text x="363" y="408" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="15" font-weight="700" fill="#2b1111">Stop</text>
+
+  <rect x="434" y="382" width="120" height="42" rx="10" fill="#2a4257"/>
+  <text x="494" y="408" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="15" fill="#e7f2ff">Open Folder</text>
+
+  <rect x="566" y="382" width="110" height="42" rx="10" fill="#2a4257"/>
+  <text x="621" y="408" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="15" fill="#e7f2ff">Clear Log</text>
+
+  <rect x="112" y="444" width="1078" height="18" rx="9" fill="#1b2c3f"/>
+  <rect x="112" y="444" width="730" height="18" rx="9" fill="#2ec4b6"/>
+
+  <rect x="112" y="482" width="1078" height="250" rx="12" fill="#0e1823" stroke="#2d465d"/>
+  <text x="132" y="514" font-family="Consolas, monospace" font-size="14" fill="#9fd0ff">Starting download...</text>
+  <text x="132" y="538" font-family="Consolas, monospace" font-size="14" fill="#9fd0ff">URL: https://youtu.be/hYG47xLb04c?si=ySXb5YtFAyfy1Hlo</text>
+  <text x="132" y="562" font-family="Consolas, monospace" font-size="14" fill="#9fd0ff">Save folder: D:\00_Server\유튜브음악다운로더\downloads</text>
+  <text x="132" y="586" font-family="Consolas, monospace" font-size="14" fill="#8ce9e0">Live stream detected: downloading audio from the start of live.</text>
+  <text x="132" y="610" font-family="Consolas, monospace" font-size="14" fill="#8ce9e0">[download]  57.3% of 213.42MiB at 2.98MiB/s ETA 00:31</text>
+  <text x="132" y="634" font-family="Consolas, monospace" font-size="14" fill="#8ce9e0">[ExtractAudio] Destination: Happy Spring Cafe Music 260312.mp3</text>
+  <text x="132" y="658" font-family="Consolas, monospace" font-size="14" fill="#b7ffd7">Done. MP3 has been downloaded.</text>
+</svg>
